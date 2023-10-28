@@ -2,4 +2,4 @@
 
 ## Table of Contents
 
-- [Intro](../tree/intro)
+- [Intro](../../tree/intro)
