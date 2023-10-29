@@ -7,3 +7,4 @@
 - [Text](../../tree/text)
 - [Inline Text](../../tree/inline-text)
 - [Multimedia](../../tree/multimedia)
+- [Embedded](../../tree/embedded)
