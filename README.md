@@ -90,6 +90,14 @@ The emphasis element represents a span of text with emphatic stress. By default,
 <p><em>emphasized text</em></p>
 ```
 
+## Inserted
+
+The inserted text element represents a range of text that has been added to a document.
+
+```html
+<p><ins>inserted text</ins></p>
+```
+
 ## Italic
 
 The italic element represents a span of text that is set off from the normal text for some reason. By default, this is text that is displayed in italic.
