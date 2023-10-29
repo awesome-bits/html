@@ -10,3 +10,4 @@
 - [Embedded](../../tree/embedded)
 - [SVG](../../tree/svg)
 - [Math](../../tree/math)
+- [Scripting](../../tree/scripting)
