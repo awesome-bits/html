@@ -8,3 +8,4 @@
 - [Inline Text](../../tree/inline-text)
 - [Multimedia](../../tree/multimedia)
 - [Embedded](../../tree/embedded)
+- [SVG](../../tree/svg)
