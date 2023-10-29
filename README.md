@@ -6,3 +6,4 @@
 - [Layout](../../tree/layout)
 - [Text](../../tree/text)
 - [Inline Text](../../tree/inline-text)
+- [Multimedia](../../tree/multimedia)
