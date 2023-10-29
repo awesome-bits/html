@@ -9,3 +9,4 @@
 - [Multimedia](../../tree/multimedia)
 - [Embedded](../../tree/embedded)
 - [SVG](../../tree/svg)
+- [Math](../../tree/math)
